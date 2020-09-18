@@ -1,4 +1,4 @@
 Welcome to GIT
 First file in GITHUB
-commit command modified
+commit command
 
